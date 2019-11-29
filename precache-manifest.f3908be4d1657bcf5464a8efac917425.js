@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c6bb3d50a5116e8f211f4324409eb3e1",
+    "revision": "f21732680979a234c94197208b8e6d0b",
     "url": "/spacex-datawiki/index.html"
   },
   {
