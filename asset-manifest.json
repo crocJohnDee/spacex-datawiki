@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/spacex-datawiki/static/css/main.34c778c4.chunk.css",
+    "main.js": "/spacex-datawiki/static/js/main.b98fa846.chunk.js",
+    "main.js.map": "/spacex-datawiki/static/js/main.b98fa846.chunk.js.map",
+    "runtime-main.js": "/spacex-datawiki/static/js/runtime-main.c1bbf77a.js",
+    "runtime-main.js.map": "/spacex-datawiki/static/js/runtime-main.c1bbf77a.js.map",
+    "static/css/2.5f5aa264.chunk.css": "/spacex-datawiki/static/css/2.5f5aa264.chunk.css",
+    "static/js/2.4dbe3976.chunk.js": "/spacex-datawiki/static/js/2.4dbe3976.chunk.js",
+    "static/js/2.4dbe3976.chunk.js.map": "/spacex-datawiki/static/js/2.4dbe3976.chunk.js.map",
+    "index.html": "/spacex-datawiki/index.html",
+    "precache-manifest.79a2e5b0d7cb9dd7c3ec07e0448a4e61.js": "/spacex-datawiki/precache-manifest.79a2e5b0d7cb9dd7c3ec07e0448a4e61.js",
+    "service-worker.js": "/spacex-datawiki/service-worker.js",
+    "static/css/2.5f5aa264.chunk.css.map": "/spacex-datawiki/static/css/2.5f5aa264.chunk.css.map",
+    "static/css/main.34c778c4.chunk.css.map": "/spacex-datawiki/static/css/main.34c778c4.chunk.css.map",
+    "static/media/index.css": "/spacex-datawiki/static/media/bg.d6f223c8.jpg",
+    "static/media/noimg.jpg": "/spacex-datawiki/static/media/noimg.1c231956.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1bbf77a.js",
+    "static/css/2.5f5aa264.chunk.css",
+    "static/js/2.4dbe3976.chunk.js",
+    "static/css/main.34c778c4.chunk.css",
+    "static/js/main.b98fa846.chunk.js"
+  ]
+}
